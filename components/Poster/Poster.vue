@@ -105,6 +105,10 @@ const redirectToDetailPage = () => {
 .poster-container {
   position: relative;
   margin: 20px 10px;
+  width: fit-content;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .button-container {
